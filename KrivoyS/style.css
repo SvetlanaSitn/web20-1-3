@@ -5,7 +5,7 @@ img{
     border-style: solid;
     width: 500px;
 }
-.men{    background-color: red;
+.menu{    background-color: red;
     font-size: 15px;
 }
 a{
@@ -21,4 +21,7 @@ font-size:100px;
 }
 figcaption{
     font-size: 50px;
+}
+p {
+font-size: 27px;
 }
